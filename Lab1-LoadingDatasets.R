@@ -384,7 +384,10 @@ churn_dateset <- read_csv(
 # called "markdown". The markdown should have a code chunk that explains how
 # the dataset has been loaded.
 
+
 ## Part D ----
 # Upload *the link* to "BIProject.md" (not .Rmd) markdown file hosted on Github
 # (do not upload the .Rmd or .md markdown files) through the same submission
 # link provided on eLearning.
+
+#checking if it commits
