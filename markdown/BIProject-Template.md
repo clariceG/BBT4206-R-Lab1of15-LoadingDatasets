@@ -1,7 +1,7 @@
 Business Intelligence Project
 ================
-<Specify your name here>
-<Specify the date when you submitted the lab>
+Clarice Muthoni Gitonga
+07/09/2023
 
 - [Student Details](#student-details)
 - [Setup Chunk](#setup-chunk)
@@ -13,12 +13,12 @@ Business Intelligence Project
 
 # Student Details
 
-|                                              |     |
-|----------------------------------------------|-----|
-| **Student ID Number**                        | …   |
-| **Student Name**                             | …   |
-| **BBIT 4.2 Group**                           | …   |
-| **BI Project Group Name/ID (if applicable)** | …   |
+|                                              |                 |
+|----------------------------------------------|-----------------|
+| **Student ID Number**                        | 127707          |
+| **Student Name**                             | Clarice Gitonga |
+| **BBIT 4.2 Group**                           | 4.2B            |
+| **BI Project Group Name/ID (if applicable)** | Champions       |
 
 # Setup Chunk
 
