@@ -53,9 +53,8 @@ Refer to the APA 7th edition manual for rules on how to cite datasets: <https://
 
 ```{r Dataset Loader}
 library(readr)
-#library(readr)
-#census <- read_csv("data/census.csv")
-#View(census)
+census <- read_csv("../data/census.csv")
+View(census)
 
 
 # Provide the executable R code inside the various code chunks as guided by the lab work.

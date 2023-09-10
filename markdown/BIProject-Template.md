@@ -54,9 +54,20 @@ Refer to the APA 7th edition manual for rules on how to cite datasets:
 
 ``` r
 library(readr)
-#library(readr)
-#census <- read_csv("data/census.csv")
-#View(census)
+census <- read_csv("../data/census.csv")
+```
+
+    ## Rows: 45222 Columns: 14
+    ## ── Column specification ────────────────────────────────────────────────────────
+    ## Delimiter: ","
+    ## chr (9): workclass, education_level, marital-status, occupation, relationshi...
+    ## dbl (5): age, education-num, capital-gain, capital-loss, hours-per-week
+    ## 
+    ## ℹ Use `spec()` to retrieve the full column specification for this data.
+    ## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+``` r
+View(census)
 
 
 # Provide the executable R code inside the various code chunks as guided by the lab work.
