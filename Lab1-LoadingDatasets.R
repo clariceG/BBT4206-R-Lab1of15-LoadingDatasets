@@ -381,15 +381,7 @@ library(readr)
 census <- read_csv("data/census.csv")
 View(census)
 
-###Example_submission.csv ----
-library(readr)
-example_submission <- read_csv("data/example_submission.csv")
-View(example_submission)
 
-###Test_census ----
-library(readr)
-test_census <- read_csv("data/test_census.csv")
-View(test_census)
 
 ## Part B ----
 # Upload *the link* to your "Lab1-LoadingDatasets.R" hosted on Github (do not
