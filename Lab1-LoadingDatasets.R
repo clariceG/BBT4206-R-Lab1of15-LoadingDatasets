@@ -373,6 +373,19 @@ churn_dateset <- read_csv(
 ## Part A ----
 # Specify the code you have used to load your own dataset for the BI Project
 # here:
+#My Dataset ----
+###Census.csv ----
+library(readr)
+census <- read_csv("data/census.csv")
+View(census)
+###Example_submission.csv ----
+library(readr)
+example_submission <- read_csv("data/example_submission.csv")
+View(example_submission)
+###Test_census ----
+library(readr)
+test_census <- read_csv("data/test_census.csv")
+View(test_census)
 
 ## Part B ----
 # Upload *the link* to your "Lab1-LoadingDatasets.R" hosted on Github (do not
