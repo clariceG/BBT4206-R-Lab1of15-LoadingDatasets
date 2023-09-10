@@ -10,6 +10,11 @@ Clarice Muthoni Gitonga
   - [Loading the Dataset](#loading-the-dataset)
     - [Source:](#source)
     - [Reference:](#reference)
+      - [Karlan, A., Dean; Wood, S., Daniel H., (2017), “The Effect of
+        Effectiveness: Donor Response to Aid Effectiveness in a Direct
+        Mail Fundraising Experiment”,
+        https://doi.org/10.7910/DVN/RDHJQZ, Harvard Dataverse, (Version
+        1),](#karlan-a-dean-wood-s-daniel-h-2017-the-effect-of-effectiveness-donor-response-to-aid-effectiveness-in-a-direct-mail-fundraising-experiment-httpsdoiorg107910dvnrdhjqz-harvard-dataverse-version-1)
 
 # Student Details
 
@@ -36,16 +41,23 @@ here <https://yihui.org/knitr/options/>.
 
 ### Source:
 
-The dataset that was used can be downloaded here: *\<provide a link\>*
+The dataset that was used can be downloaded here:
+<https://www.kaggle.com/datasets/nancyalaswad90/finding-donors-for-charityml>\*
 
 ### Reference:
 
-*\<Cite the dataset here using APA\>  
+\*\<Cite the dataset here using APA\>  
 Refer to the APA 7th edition manual for rules on how to cite datasets:
-<https://apastyle.apa.org/style-grammar-guidelines/references/examples/data-set-references>*
+<https://apastyle.apa.org/style-grammar-guidelines/references/examples/data-set-references>
+
+#### Karlan, A., Dean; Wood, S., Daniel H., (2017), “The Effect of Effectiveness: Donor Response to Aid Effectiveness in a Direct Mail Fundraising Experiment”, <https://doi.org/10.7910/DVN/RDHJQZ>, Harvard Dataverse, (Version 1),
 
 ``` r
 library(readr)
+#library(readr)
+#census <- read_csv("data/census.csv")
+#View(census)
+
 
 # Provide the executable R code inside the various code chunks as guided by the lab work.
 ```
